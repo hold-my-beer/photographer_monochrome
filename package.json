@@ -1,0 +1,11 @@
+{
+  "name": "monochrome_photo",
+  "version": "1.0.0",
+  "description": "Single page monochrome app for photographer",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sergei Petrov",
+  "license": "MIT"
+}
